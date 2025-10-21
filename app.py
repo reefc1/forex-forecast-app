@@ -45,7 +45,7 @@ else:
     display_to_file = {}
     for filename in models.keys():
         clean_name = filename
-        for suffix in ["_PROPHET", "_LSTM", "_XGB", "_LIGHTGBM"]:
+        for suffix in ["_PROPHET", "_LSTM", "_XGBoost", "_LIGHTGBM"]:
             if clean_name.upper().endswith(suffix):
                 clean_name = clean_name[:-len(suffix)]
                 break
