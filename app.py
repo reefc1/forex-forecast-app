@@ -7,9 +7,8 @@ import sys
 import typing as t
 from shutil import which
 
-from jupyter_core.utils import ensure_async
-from jupyter_server.extension.application import ExtensionApp
-from jupyter_server.transutils import trans
+
+
 from traitlets import Type
 
 from . import api_handlers, handlers

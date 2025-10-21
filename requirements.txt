@@ -6,6 +6,8 @@ tensorflow
 joblib
 plotly
 jupyter_core
+jupyter_server
+
 
 
 
