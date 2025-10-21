@@ -4,10 +4,8 @@ numpy
 prophet
 tensorflow
 joblib
-plotly
-jupyter_core
-jupyter_server
-
+xgboost
+lightgbm
 
 
 
