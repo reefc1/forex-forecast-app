@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+prophet
+tensorflow
+joblib
+plotly
+jupyter_core
+
+
+
