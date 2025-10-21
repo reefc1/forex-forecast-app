@@ -11,8 +11,7 @@ from shutil import which
 
 from traitlets import Type
 
-from . import api_handlers, handlers
-from .terminalmanager import TerminalManager
+
 
 
 class TerminalsExtensionApp(ExtensionApp):
